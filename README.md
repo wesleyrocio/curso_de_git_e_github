@@ -6,7 +6,7 @@ ______________________________
 4. Instalando o Git CLI no Linux
 5. Comandos básicos do Git
 6. Comando git commit
-7. Comando git log
+7. Comando git log e todas as suas variações
 8. Comando git rm
 9. Comando git diff
 10. Comandos git restore e reset
