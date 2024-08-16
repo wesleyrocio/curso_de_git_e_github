@@ -4,7 +4,7 @@ ______________________________
 2. Conhecendo o Git
 3. Instalando o Git CLI no Windows
 4. Instalando o Git CLI no Linux
-5. Comandos básicos do Git 
+5. Comandos básicos do Git (quase todos)
 6. Comando git commit
 7. Comando git log e todas as suas variações
 8. Comando git rm
